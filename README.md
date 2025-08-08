@@ -6,7 +6,7 @@ A machine learning-powered web application that predicts the most suitable crop 
 
 ## 🌐 View Online
 
-🌱 Live Demo: https://sakshamsharma-code.github.io/Crop-Predictor/
+[🔗 Click here to view the live site](https://sakshamsharma-code.github.io/Crop-Predictor/)
 
 ---
 

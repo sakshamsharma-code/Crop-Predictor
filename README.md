@@ -4,12 +4,6 @@ A machine learning-powered web application that predicts the most suitable crop 
 
 ---
 
-## 🌐 View Online
-
-[🔗 Click here to view the live site](https://sakshamsharma-code.github.io/Crop-Predictor/)
-
----
-
 ## 🔍 Overview
 
 This system helps farmers and agriculturists make informed decisions by suggesting the optimal crop to cultivate based on the current conditions. It leverages a Random Forest classifier trained on historical agricultural data.
@@ -19,7 +13,7 @@ This system helps farmers and agriculturists make informed decisions by suggesti
 ## 🎯 Features
 
 - ✅ Input-based crop recommendation
-- ✅ Interactive HTML frontend (deployed via GitHub Pages)
+- ✅ Interactive HTML frontend 
 - ✅ Flask backend with ML prediction
 - ✅ Minimal, clean Bootstrap UI
 
@@ -67,7 +61,7 @@ Crop-Predictor/
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/sakshamsharma-code/Crop-Predictor.git
 cd Crop-Predictor
 ```
 Install required packages:
